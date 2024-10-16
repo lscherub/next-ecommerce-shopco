@@ -1,4 +1,3 @@
-[![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/)
 
 # Shopco
 
@@ -26,8 +25,6 @@ Shopco bridges the gap between design and development by converting Figma design
 
 ## Demo
 
-Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/)
-
 <!-- [![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/) -->
 
 ## Features
@@ -50,7 +47,6 @@ Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/
 - **Redux** - A state management library used for the shopping cart and global app state.
 - **Framer Motion** - A library for animations and interactions in React.
 - **ShadCN UI** - A collection of beautiful, accessible, and customizable UI components.
-- **Figma** - The design tool used as the source of the project’s layout. The [Figma file](https://www.figma.com/community/file/1273571982885059508/e-commerce-website-template-freebie) designed by [Hamza Naeem](https://www.figma.com/@hamzauix)
 
 ## Installation
 
@@ -139,8 +135,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 ## Contact
 
-Feel free to reach out to:
-
-- **Name**: Mohammad Oftadeh
-- **Email**: [mr.mohammadoftadeh@gmail.com](mailto:mr.mohammadoftadeh@gmail.com)
-- **GitHub**: [https://github.com/mohammadoftadeh](https://github.com/mohammadoftadeh)
